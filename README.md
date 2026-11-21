@@ -8,7 +8,7 @@ whoanddo gives an admin panel per-person accounts with roles, a pure method-and-
 
 ## Get it
 
-Buy whoanddo at https://dominares.org/tools/whoanddo: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the whoanddo command (check, scan, accounts, keys, audit), examples, and the full test suite.
+Buy whoanddo at https://dominares.org/tools/whoanddo: one payment of $149, plus sales tax where it applies, and every future update. After checkout you are invited to a private GitHub repository with the source and every version published to it. The repository includes the Python package and the whoanddo command (check, scan, accounts, keys, audit), examples, and the test suite.
 
 Requirements: Python 3.10 or newer, no runtime dependencies.
 
